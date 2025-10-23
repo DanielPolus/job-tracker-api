@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+.env
+.env.*
+.venv/
+venv/
+.idea/
+.DS_Store
+
+# Alembic
+alembic/versions/*.pyc
+alembic/versions/__pycache__/
+
+# Docker
+pgdata/
+*.log
+
+# VSCode / PyCharm
+.vscode/
+.idea/
