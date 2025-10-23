@@ -2,8 +2,8 @@
 
 FastAPI backend for managing companies, jobs, and applications — with authentication, PostgreSQL storage, and Docker support.
 
-## 📘 Live demo: local only (dev)
-## 📚 Docs: http://127.0.0.1:8000/docs
+### 📘 Live demo: local only (dev)
+### 📚 Docs: http://127.0.0.1:8000/docs
 
 # 🚀 Tech Stack
 - Backend
